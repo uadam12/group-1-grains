@@ -1,0 +1,11 @@
+name_of_crop,length_per_seed,breath_per_seed,seeds_per_hole,unit_price
+Maize(masara),0.075,0.075,2,13000
+Rice(shinkafa),0.035,0.035,5,11000
+Cowpea(wake),0.020,0.020,2,12600
+Soybean(waken suya),0.075,0.075,2,15300
+Barley(acca),0.015,0.015,10,14500
+Millet(hatsi),0.075,0.025,5,13200
+Groundnut(gyada),0.045,0.010,2,16800
+Sorghum(dawa),0.075,0.025,6,19000
+Sesame(ridi),0.040,0.040,10,13200
+Cotton(auduga),0.035,0.035,3,11200
